@@ -36,9 +36,9 @@ export.append(metadata)
 for i, annotation in enumerate(annotations):
     progress = float(annotation.target.fragment.get('progress'))
     progress_pct = "{:.5%}".format(progress)
-    date = annotation.date.get_text()
+    date = annotation.date.get_text().date
     citation = annotation.target.find('text').get_text()
-    export.append('{}. "{}" ({})\n\n'.format(i,citation, date))
+    export.append(f'"{i}. {citation} ({date} , {progress_pct})\n\n"')
     if annotation.content:
         note = annotation.content.find('text')
         if note:
