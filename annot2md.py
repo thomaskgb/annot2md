@@ -28,6 +28,7 @@ title: {}
 author: {} 
 
 ---
+# 
 
 """.format(title, author)
 
@@ -41,7 +42,7 @@ for i, annotation in enumerate(annotations):
     datestrp = datetime.strptime(dateiso,"%Y-%m-%dT%H:%M:%S%z")
     date = datetime.date(datestrp)
     citation = annotation.target.find('text').get_text()
-    export.append(f'\"{i}. {citation} ({date} , {progresspct})\n\n\"')
+    export.append(f'{i}. \"{citation}\" ({date} , {progresspct}) \n\n')
     
     if annotation.content:
         note = annotation.content.find('text')
