@@ -1,3 +1,4 @@
+from datetime import datetime
 import os
 import sys
 from bs4 import BeautifulSoup
@@ -35,10 +36,13 @@ export.append(metadata)
 
 for i, annotation in enumerate(annotations):
     progress = float(annotation.target.fragment.get('progress'))
-    progress_pct = "{:.5%}".format(progress)
-    date = annotation.date.get_text().date
+    progresspct = "{:.5%}".format(progress)
+    dateiso = annotation.date.get_text()
+    datestrp = datetime.strptime(dateiso,"%Y-%m-%dT%H:%M:%S%z")
+    date = datetime.date(datestrp)
     citation = annotation.target.find('text').get_text()
-    export.append(f'"{i}. {citation} ({date} , {progress_pct})\n\n"')
+    export.append(f'\"{i}. {citation} ({date} , {progresspct})\n\n\"')
+    
     if annotation.content:
         note = annotation.content.find('text')
         if note:
