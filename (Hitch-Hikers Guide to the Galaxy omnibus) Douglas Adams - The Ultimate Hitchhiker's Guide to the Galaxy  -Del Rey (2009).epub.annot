@@ -1,0 +1,25 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>978-0-307-49846-5</dc:identifier>
+        <dc:title>The Ultimate Hitchhiker’s Guide to the Galaxy</dc:title>
+        <dc:creator>Douglas Adams</dc:creator>
+        <dc:language>en-US</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:f3603b87-c7ba-4f76-8636-22dbf6ead8bb</dc:identifier>
+        <dc:date>2021-02-15T00:20:38Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Adam_9780307498465_epub_c01_r1.htm#point(/1/4/138/1:296)" end="OEBPS/Adam_9780307498465_epub_c01_r1.htm#point(/1/4/138/1:296)" progress="0.0303738"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2eeb501b-1613-4010-b848-b10139620427</dc:identifier>
+        <dc:date>2021-02-20T23:41:37Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Adam_9780307498465_epub_c22_r1.htm#point(/1/4/70/1:0)" end="OEBPS/Adam_9780307498465_epub_c22_r1.htm#point(/1/4/70/1:0)" progress="0.149533"/>
+        </target>
+    </annotation>
+</annotationSet>
