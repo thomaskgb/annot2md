@@ -24,7 +24,9 @@ annotations = soup.find_all('annotation')
 
 # YAML metadata
 metadata =f"""---
-title: {title}
+tags: [auto]
+type: book_annotation
+title: '{title}'
 author: {author} 
 
 ---
