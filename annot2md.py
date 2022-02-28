@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from datetime import datetime
 import os
 import sys
@@ -36,6 +38,9 @@ ISBN: {identifier}
 title_block = f"""
 # {title} - {author}
 
+---
+## Annotations
+
 """ 
 
 export = []
@@ -44,13 +49,20 @@ export.append(title_block)
 
 for i, annotation in enumerate(annotations):
     progress = float(annotation.target.fragment.get('progress'))
+    # convert float progress to % symbol with 5 trailing digits
     progresspct = "{:.5%}".format(progress)
     dateiso = annotation.date.get_text()
+
+    # convert date to human readable
     datestrp = datetime.strptime(dateiso,"%Y-%m-%dT%H:%M:%S%z")
     date = datetime.date(datestrp)
-    citation = annotation.target.find('text').get_text()
-    export.append(f'{i}. \"{citation}\" ({date} , {progresspct}) \n\n')
+    citation_raw = annotation.target.find('text').get_text()
     
+    # remove whitespace and enters
+    citation = " ".join(citation_raw.split()) 
+    export.append(f'{i}. \"{citation}\" \n({date} , {progresspct}) \n\n')
+    
+    # read content and append note as comment
     if annotation.content:
         note = annotation.content.find('text')
         if note:
