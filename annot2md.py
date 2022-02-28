@@ -23,14 +23,14 @@ author = soup.find('creator').get_text()
 annotations = soup.find_all('annotation')
 
 # YAML metadata
-metadata ="""---
-title: {}
-author: {} 
+metadata =f"""---
+title: {title}
+author: {author} 
 
 ---
 # 
 
-""".format(title, author)
+"""
 
 export = []
 export.append(metadata)
