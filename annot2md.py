@@ -28,14 +28,19 @@ tags: [auto]
 type: book_annotation
 title: '{title}'
 author: {author} 
+ISBN: {identifier}
 
 ---
-# 
-
 """
+
+title_block = f"""
+# {title} - {author}
+
+""" 
 
 export = []
 export.append(metadata)
+export.append(title_block)
 
 for i, annotation in enumerate(annotations):
     progress = float(annotation.target.fragment.get('progress'))
