@@ -2,6 +2,7 @@
 
 from datetime import datetime
 import os
+from sqlite3 import DataError
 import sys
 from bs4 import BeautifulSoup
 
@@ -16,15 +17,24 @@ filename_raw = args[0]
 def convertannot(annotfile):
     try:
         with open(annotfile, "r", encoding="utf-8") as f:
-            soup = BeautifulSoup(f, "lxml-xml")
+            soup = BeautifulSoup(f, "lxml-xml")        
+        # check if annotations are empty
+        try:
+            annotations = soup.find_all('annotation')
+            if not annotations:
+                raise ValueError(annotfile + ' NOT CONVERTED -> has empty annotations')
+
+        except ValueError as error:
+            print(error)
+            return
+
     except FileNotFoundError:
         print("The annotation file was not found")
 
-    try: 
     identifier = soup.find('identifier').get_text()
     title = soup.find('title').get_text()
     author = soup.find('creator').get_text() 
-    annotations = soup.find_all('annotation')
+
 
     # YAML metadata
     metadata = (f'---\n' +
@@ -37,7 +47,6 @@ def convertannot(annotfile):
     
     title_block = (f'# {title} - {author}\n\n' +
     f'## Annotations\n\n')
-    print(title_block)
 
     export = []
     export.append(metadata)
@@ -70,9 +79,9 @@ def convertannot(annotfile):
 # check if its an fzf list
 if "\n" in filename_raw:
     filename = filename_raw.split('\n')
-    print(f'filename = {filename}')
+    # print(f'filename = {filename}')
     for file in filename:
         convertannot(file)
-        print(f'filename = {file}')
 
-# convertannot(filename)
+# file ="Sönke Ahrensx - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers-CreateSpace Independent Publishing Platform (.epub.annot"
+# convertannot(file)
