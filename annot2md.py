@@ -80,17 +80,20 @@ def convertannot(annotfile):
 
 
 ## when file is generated check if filename ends with .md
+filename = []
+
 if "\n" in filename_raw:
     filename = filename_raw.split('\n')
-    for file in filename:
-        ext = file[-6:] 
-        # print(f'filename = {file}')
-        try:
-            if not ext == ".annot":
-                raise ValueError('NOT converted, no valid .ANNOT file :'+ file) 
-            else:
-                convertannot(file)
-        except ValueError as error:
-            print(error)
 else:
-    convertannot(filename_raw)            
+    filename.append(filename_raw)
+for file in filename:
+    ext = file[-6:] 
+    print(f'filename = {ext}')
+    try:
+        if not ext == ".annot":
+            raise ValueError('NOT converted, no valid .ANNOT file :'+ file) 
+        else:
+            convertannot(file)
+    except ValueError as error:
+        print(error)
+
