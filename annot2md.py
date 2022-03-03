@@ -75,13 +75,23 @@ def convertannot(annotfile):
 
     with open(annotfile + ".md", "w", encoding="utf-8") as output:
         output.writelines(export)
+    print(f'SUCCESFULLY converted : {annotfile}')
 
-# check if its an fzf list
+
+## when file is generated check if filename ends with .md
 if "\n" in filename_raw:
     filename = filename_raw.split('\n')
-    # print(f'filename = {filename}')
     for file in filename:
-        convertannot(file)
+        ext = file[-6:] 
+        # print(f'filename = {file}')
+        try:
+            if not ext == ".annot":
+                raise ValueError('NOT converted, no valid .ANNOT file :'+ file) 
+            else:
+                convertannot(file)
+        except ValueError as error:
+            print(error)
+            
 
 # file ="Sönke Ahrensx - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers-CreateSpace Independent Publishing Platform (.epub.annot"
 # convertannot(file)
