@@ -1,10 +1,12 @@
 #!/usr/bin/python
 
 from datetime import datetime
+from fileinput import filename
 import os
-from sqlite3 import DataError
 import sys
 from bs4 import BeautifulSoup
+
+files2convert = []
 
 args = sys.argv[1:]
 
@@ -74,21 +76,37 @@ def convertannot(annotfile):
                 export.append('> ' + note.get_text() + "\n\n")
 
     # write .annot.md file if .md file exists ask for confirmation
-    with open(annotfile + ".md", "w", encoding="utf-8") as output:
-        output.writelines(export)
-    print(f'SUCCESFULLY converted : {annotfile}')
+    filepathmd = f'{file}.md'
+    if os.path.exists(filepathmd) is True:
+        print(f'file : {file}.md exists')
+        overwrite = input("do you want to overwrite the existing file (y/n): ")
+
+        if overwrite == "y":
+            with open(annotfile + ".md", "w", encoding="utf-8") as output:
+                output.writelines(export)
+                print(f'SUCCESFULLY converted : {annotfile}')
+
+        elif overwrite == "n":
+            print(f'NOT overwritten: {file}')
+
+        else: 
+            print("wrong input, not overwriting, going to next file")  
+
+    else:
+        with open(annotfile + ".md", "w", encoding="utf-8") as output:
+            output.writelines(export)
+        print(f'SUCCESFULLY converted : {annotfile}')
 
 
 ## when file is generated check if filename ends with .md
-filename = []
-
 if "\n" in filename_raw:
-    filename = filename_raw.split('\n')
+    files2convert = filename_raw.split('\n')
 else:
-    filename.append(filename_raw)
-for file in filename:
+    files2convert.append(filename_raw)
+for file in files2convert:
     ext = file[-6:] 
-    print(f'filename = {ext}')
+    # print(f'filename = {filename_raw}')
+
     try:
         if not ext == ".annot":
             raise ValueError('NOT converted, no valid .ANNOT file :'+ file) 
@@ -97,3 +115,4 @@ for file in filename:
     except ValueError as error:
         print(error)
 
+print("all files have been processed")
