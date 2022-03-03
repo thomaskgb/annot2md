@@ -73,6 +73,7 @@ def convertannot(annotfile):
             if note:
                 export.append('> ' + note.get_text() + "\n\n")
 
+    # write .annot.md file if .md file exists ask for confirmation
     with open(annotfile + ".md", "w", encoding="utf-8") as output:
         output.writelines(export)
     print(f'SUCCESFULLY converted : {annotfile}')
@@ -91,7 +92,5 @@ if "\n" in filename_raw:
                 convertannot(file)
         except ValueError as error:
             print(error)
-            
-
-# file ="Sönke Ahrensx - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers-CreateSpace Independent Publishing Platform (.epub.annot"
-# convertannot(file)
+else:
+    convertannot(filename_raw)            
