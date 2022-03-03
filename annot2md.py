@@ -17,6 +17,7 @@ filename_raw = args[0]
 
 
 def convertannot(annotfile):
+
     try:
         with open(annotfile, "r", encoding="utf-8") as f:
             soup = BeautifulSoup(f, "lxml-xml")        
@@ -103,6 +104,7 @@ if "\n" in filename_raw:
     files2convert = filename_raw.split('\n')
 else:
     files2convert.append(filename_raw)
+
 for file in files2convert:
     ext = file[-6:] 
     # print(f'filename = {filename_raw}')
