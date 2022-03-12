@@ -1,0 +1,526 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9781448181476</dc:identifier>
+        <dc:title>Surely You're Joking Mr Feynman</dc:title>
+        <dc:creator>Richard P Feynman</dc:creator>
+        <dc:description>&lt;p&gt;Winner of the Nobel Prize for Physics in 1965, Richard Feynman was one of the world's greatest theoretical physicists, but he was also a man who fell, often jumped, into adventure. An artist, safecracker, practical joker and storyteller, Feynman's life was a series of combustible combinations made possible by his unique mixture of high intelligence, unquenchable curiosity and eternal scepticism. Over a period of years, Feynman's conversations with his friend Ralph Leighton were first taped and then set down as they appear here, little changed from their spoken form, giving a wise, funny, passionate and totally honest self-portrait of one of the greatest men of our age.&lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:bb48f052-4120-42b1-a3c8-391efe34aa0d</dc:identifier>
+        <dc:date>2022-02-05T04:56:38Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter001.html#point(/1/4/86/3:210)" end="OPS/xhtml/chapter001.html#point(/1/4/86/3:252)" progress="0.0524691">
+                <text>Once I get on a puzzle, I can’t get off.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-05T04:56:38Z</dc:date>
+            <text>Recognizeable</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7e777565-6e28-41d4-85d3-77031fae2f41</dc:identifier>
+        <dc:date>2022-02-05T04:57:51Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter001.html#point(/1/4/87:1)" end="OPS/xhtml/chapter001.html#point(/1/4/88/1:24)" progress="0.0524691">
+                <text>That’s a puzzle drive.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8503821b-79c0-4fd7-8378-a026597113da</dc:identifier>
+        <dc:date>2022-02-05T05:15:27Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter001.html#point(/1/4/118/1:85)" end="OPS/xhtml/chapter001.html#point(/1/4/118/5:20)" progress="0.0648148">
+                <text>doesn’t make any difference what symbols you use—but I discovered later that it does make a difference. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f25997cd-212c-4d55-93bd-fd889d933e56</dc:identifier>
+        <dc:date>2022-02-10T05:34:03Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter002.html#point(/1/4/54/7:1)" end="OPS/xhtml/chapter002.html#point(/1/5:0)" progress="0.0802469">
+                <text>I learned there that innovation is a very difficult thing in the real world.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:81b1cea2-7905-47e6-a2c2-fcc1fff8635b</dc:identifier>
+        <dc:date>2022-02-10T06:07:48Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter003.html#point(/1/4/115:1)" end="OPS/xhtml/chapter003.html#point(/1/4/118:0)" progress="0.101852">
+                <text>I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way—by rote, or something. Their knowledge is so fragile!
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:70596b92-2c6d-4a28-9afb-bf70c2f21118</dc:identifier>
+        <dc:date>2022-02-10T06:30:16Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter003.html#point(/1/4/197:1)" end="OPS/xhtml/chapter003.html#point(/1/5:0)" progress="0.114198">
+                <text>People often think I’m a faker, but I’m usually honest, in a certain way—in such a way that often nobody believes me!
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f5953028-6042-4936-aa33-dd5542fdadd0</dc:identifier>
+        <dc:date>2022-02-10T07:31:38Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter006.html#point(/1/4/40/1:442)" end="OPS/xhtml/chapter006.html#point(/1/4/40/3:41)" progress="0.160494">
+                <text>—the fact is, the salesman never knew what we could plate, so he was always promising things</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-10T07:31:38Z</dc:date>
+            <text>Why does it mostly work like this?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:477cdf71-05b7-4dab-8dab-cb7abba46194</dc:identifier>
+        <dc:date>2022-02-10T09:55:24Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter009.html#point(/1/4/32/1:81)" end="OPS/xhtml/chapter009.html#point(/1/4/34:0)" progress="0.20679">
+                <text> I found out something, about biology: it was very easy to find a question that was very interesting, and that nobody knew the answer to. In physics you had to go a little deeper before you could find an interesting question that people didn’t know.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0207c570-1978-4685-8d85-c33bdb07ef2f</dc:identifier>
+        <dc:date>2022-02-10T10:25:38Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter009.html#point(/1/4/100/1:81)" end="OPS/xhtml/chapter009.html#point(/1/5:0)" progress="0.222222">
+                <text>! I always do that, get into something and see how far I can go.
+ I learned a lot of things in biology, and I gained a lot of experience. I got better at pronouncing the words, knowing what not to include in a paper or a seminar, and detecting a weak technique in an experiment. But I love physics, and I love to go back to it.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-10T10:25:38Z</dc:date>
+            <text>Dont fear and just do. Beginners mind</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e0395f4d-f933-4df1-9ea2-88f55fd1875a</dc:identifier>
+        <dc:date>2022-02-11T05:13:16Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter016.html#point(/1/4/22/1:108)" end="OPS/xhtml/chapter016.html#point(/1/4/22/1:108)" progress="0.311728"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ce6b4f4b-05ac-4705-a155-00fd8d853a62</dc:identifier>
+        <dc:date>2022-02-11T05:18:16Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter016.html#point(/1/4/33:1)" end="OPS/xhtml/chapter016.html#point(/1/4/35:0)" progress="0.314815">
+                <text>People’s hands smell very different—that’s why dogs can identify people; you have to try it! All hands have a sort of moist smell, and a person who smokes has a very different smell on his hands from a person who doesn’t; ladies often have different kinds of perfumes, and so on. If somebody happened to have some coins in his pocket and happened to be handling them, you can smell that.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:002559d7-723c-4a09-9dbc-18b33a13dd07</dc:identifier>
+        <dc:date>2022-02-11T05:57:55Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter017.html#point(/1/4/64/3:32)" end="OPS/xhtml/chapter017.html#point(/1/4/64/3:74)" progress="0.330247">
+                <text>. My wife was sick with TB in Albuquerque,</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-11T05:57:55Z</dc:date>
+            <text>No context? social</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8676fbc0-9e66-4804-9f2d-9d78d39fc3af</dc:identifier>
+        <dc:date>2022-02-12T15:39:38Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter017.html#point(/1/4/284/5:187)" end="OPS/xhtml/chapter017.html#point(/1/4/288:0)" progress="0.361111">
+                <text>You’re absolutely right, sir.”
+ So they rolled up the blueprints and away they went and we walked out. And Mr. Zumwalt, who had been following me all the way through, said, “You’re a genius. I got the idea you were a genius when you went through the plant once and you could tell them about evaporator C-21 in building 90–207 the next morning,” he says, “but what you have just done is so fantastic I want to know how, how do you do that?”
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-12T15:39:38Z</dc:date>
+            <text>Pure luck. Intuition or a sensation story?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9a4960e4-a2e9-493f-8b71-f5a79289b154</dc:identifier>
+        <dc:date>2022-02-13T01:31:21Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter017.html#point(/1/4/308/1:142)" end="OPS/xhtml/chapter017.html#point(/1/4/308/3:12)" progress="0.37037">
+                <text>It’s a very serious disease and it interferes completely with the work. The trouble with computers is you play with them. </text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T01:31:21Z</dc:date>
+            <text>Focus on outcome not what is possible</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ac501536-2c3a-4029-9f84-a6985a45465b</dc:identifier>
+        <dc:date>2022-02-13T02:11:19Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter017.html#point(/1/4/380/1:10)" end="OPS/xhtml/chapter017.html#point(/1/4/380/1:15)" progress="0.382716">
+                <text>Fermi</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fac28702-4225-443b-88ae-7d6e837556f3</dc:identifier>
+        <dc:date>2022-02-13T02:11:29Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter017.html#point(/1/4/381:1)" end="OPS/xhtml/chapter017.html#point(/1/4/384:0)" progress="0.382716">
+                <text>He was doing what I was supposed to be good at, ten times better. That was quite a lesson to me.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:aa313830-2551-43ba-92b3-97d173ac3c03</dc:identifier>
+        <dc:date>2022-02-13T02:18:46Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter017.html#point(/1/4/416/1:2)" end="OPS/xhtml/chapter017.html#point(/1/4/416/3:89)" progress="0.385802">
+                <text>was always dumb in that way. I never knew who I was talking to. I was always worried about the physics. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bf64c266-fe36-4915-9503-0f064583380c</dc:identifier>
+        <dc:date>2022-02-13T03:22:55Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter018.html#point(/1/4/8/1:188)" end="OPS/xhtml/chapter018.html#point(/1/4/10:0)" progress="0.395062">
+                <text>What is not really appreciated by most people is that they’re perpetually locking themselves in with locks everywhere, and it’s not very hard to pick them.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7f561025-a223-4cc1-88cd-9d04987147b5</dc:identifier>
+        <dc:date>2022-02-13T04:54:39Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter018.html#point(/1/4/344/1:7)" end="OPS/xhtml/chapter018.html#point(/1/4/344/1:107)" progress="0.441358">
+                <text>yeah. I knew that the locks come from the factory set at 25–0–25 or 50–25–50, so I thought, </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ebd8bd69-cd82-48cc-9a58-3e9af99a0c32</dc:identifier>
+        <dc:date>2022-02-13T04:54:47Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter018.html#point(/1/4/345:1)" end="OPS/xhtml/chapter018.html#point(/1/4/348:0)" progress="0.441358">
+                <text>So I did learn something from him—that he cracked safes by the same miraculous methods that I did. But even funnier was that this big shot Captain had to have a super, super safe, and had people go to all that trouble to hoist the thing up into his office, and he didn’t even bother to set the combination.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d494ab2b-fd61-4583-b76d-8e65a7187269</dc:identifier>
+        <dc:date>2022-02-13T06:18:12Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter020.html#point(/1/4/176/1:155)" end="OPS/xhtml/chapter020.html#point(/1/5:0)" progress="0.493827">
+                <text>There was no importance to what I was doing, but ultimately there was. The diagrams and the whole business that I got the Nobel Prize for came from that piddling around with the wobbling plate.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T06:18:12Z</dc:date>
+            <text>true innovation from the heart. My notes</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:84ce6616-f7e9-433f-9269-084b30a8ebf1</dc:identifier>
+        <dc:date>2022-02-13T08:08:57Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter024.html#point(/1/4/121:1)" end="OPS/xhtml/chapter024.html#point(/1/4/124:0)" progress="0.558642">
+                <text>This bothered the hell out of the Japanese man, because he was apparently very well trained on the abacus, and here he was almost beaten by this customer in a restaurant.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7c024258-3418-4f63-b493-43d72e59c108</dc:identifier>
+        <dc:date>2022-02-14T06:45:01Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter025.html#point(/1/4/194/3:190)" end="OPS/xhtml/chapter025.html#point(/1/4/194/3:308)" progress="0.595679">
+                <text> made contact with them—the timing was all arranged—by ham radio. I found an amateur radio operator in Brazil, and</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:853420bc-7892-4098-ad46-84280685cd51</dc:identifier>
+        <dc:date>2022-02-14T07:27:39Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter027.html#point(/1/4/6/5:157)" end="OPS/xhtml/chapter027.html#point(/1/4/7:0)" progress="0.623457">
+                <text>and I liked the girls.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T07:27:39Z</dc:date>
+            <text>Different times . Always girls never the same level</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:13c9a937-9b96-49f8-a1b2-79cdd48c7dbe</dc:identifier>
+        <dc:date>2022-02-14T09:48:09Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter029.html#point(/1/4/168/1:101)" end="OPS/xhtml/chapter029.html#point(/1/4/170/3:94)" progress="0.691358">
+                <text>How the hell did this guy, who hardly understood at the beginning, find that mistake in the mess of all these equations?”
+ He thinks I’m following the steps mathematically, but that’s not what I’m doing. I have the specific, physical example of what he’s trying to analyze, and I know from instinct and experience the properties of the thing.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0e973377-1f0d-4489-9b8b-3d0911fe305b</dc:identifier>
+        <dc:date>2022-02-15T23:26:45Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter030.html#point(/1/4/36/1:100)" end="OPS/xhtml/chapter030.html#point(/1/4/37:0)" progress="0.703704">
+                <text>I had been afraid to read it, thinking it was too difficult.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-15T23:26:45Z</dc:date>
+            <text>Take it step by step. Fear is often irrational</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3fb11899-b33b-43c7-8815-373194b2a44c</dc:identifier>
+        <dc:date>2022-02-16T00:29:06Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter030.html#point(/1/4/130/1:261)" end="OPS/xhtml/chapter030.html#point(/1/4/132:0)" progress="0.719136">
+                <text>And I had realized that the whole idea that neutron-proton coupling is T was based on the last point, which wasn’t very good, and therefore it’s not proved. I remember noticing that!
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-16T00:29:06Z</dc:date>
+            <text>Intuition. First principle thinking</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:400ff7f2-ca1f-499c-8818-8042af52cf09</dc:identifier>
+        <dc:date>2022-02-16T00:36:35Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter031.html#point(/1/4/41:1)" end="OPS/xhtml/chapter031.html#point(/1/5:0)" progress="0.728395">
+                <text>They were stuck. There was no miscellaneous pot which was for money that this man deserves but won’t sign for.
+ Finally, it got straightened out. It took a long time, and it was very complicated—but I used the thirteenth signature to cash my check.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-16T00:36:35Z</dc:date>
+            <text>Be consequent about deals. Always</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c08a85bf-ba4c-4595-b081-27fcc2414c09</dc:identifier>
+        <dc:date>2022-02-16T00:55:12Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter033.html#point(/1/4/29:1)" end="OPS/xhtml/chapter033.html#point(/1/4/32:0)" progress="0.740741">
+                <text>Jerry, on the other hand, didn’t learn much physics. His mind wandered too easily. I tried to teach him something about electricity and magnetism, but as soon as I mentioned “electricity,” he’d tell me about some motor he had that didn’t work, and how might he fix it. When I tried to show him how an electromagnet works by making a little coil of wire and hanging a nail on a piece of string, I put the voltage on, the nail swung into the coil, and Jerry said, “Oohl It’s just like fucking!” So that was the end of that.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-16T00:55:12Z</dc:date>
+            <text>How good of a teacher was he?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5b74d1a8-a969-4539-924b-93a1fdd4ae0d</dc:identifier>
+        <dc:date>2022-02-16T01:10:43Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter033.html#point(/1/4/68/1:366)" end="OPS/xhtml/chapter033.html#point(/1/4/70:0)" progress="0.75">
+                <text> thought that “loosen up” meant “make sloppy drawings,” but it really meant to relax and not worry about how the drawing is going to come out.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-16T01:10:43Z</dc:date>
+            <text>Intuition</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3ce60825-9270-4705-bd41-696eadf39c44</dc:identifier>
+        <dc:date>2022-02-16T01:41:01Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter033.html#point(/1/4/119:1)" end="OPS/xhtml/chapter033.html#point(/1/4/122:0)" progress="0.759259">
+                <text>I understood that to sell a drawing is not to make money, but to be sure that it’s in the home of someone who really wants it; someone who would feel bad if they didn’t have it. This was interesting.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7798ad68-4ab4-478f-b9fa-466c9bca579c</dc:identifier>
+        <dc:date>2022-02-16T01:43:18Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter033.html#point(/1/4/122/1:239)" end="OPS/xhtml/chapter033.html#point(/1/4/122/1:283)" progress="0.759259">
+                <text> “Au Fait,” which means “It is done”</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-16T01:43:18Z</dc:date>
+            <text>Even nobel price winners make mistakes</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b0817121-cfbc-46d6-8a70-0c9f57f3f08e</dc:identifier>
+        <dc:date>2022-02-16T06:17:58Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter034.html#point(/1/4/50/6:254)" end="OPS/xhtml/chapter034.html#point(/1/4/50/10:31)" progress="0.796296">
+                <text>isn’t the stuff, but the power to make the stuff, that is important. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c9634cf3-3f40-4d02-8d18-5f4d58503bb7</dc:identifier>
+        <dc:date>2022-02-16T14:22:40Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter037.html#point(/1/4/18/1:172)" end="OPS/xhtml/chapter037.html#point(/1/4/18/1:306)" progress="0.87963">
+                <text>It was a copy (made by a man named Villacorta) of the Dresden Codex, an original book made by the Mayans found in a museum in Dresden.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2a512d17-9851-4421-9560-709e6fc8ab03</dc:identifier>
+        <dc:date>2022-02-16T15:00:10Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter038.html#point(/1/4/50/2:39)" end="OPS/xhtml/chapter038.html#point(/1/4/50/2:195)" progress="0.904321">
+                <text>Belgian Congo who gave me some ethnological records. In those days, records like that were rare, with drum music from the Watusi and other tribes of Africa.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:532f6ffe-d0f3-4b9d-a6dc-d71b5197d385</dc:identifier>
+        <dc:date>2022-02-16T16:33:50Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter039.html#point(/1/4/66/1:111)" end="OPS/xhtml/chapter039.html#point(/1/4/66/1:202)" progress="0.950617">
+                <text>something is considered real, in experimental science, if the experience can be reproduced.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8515989c-0fb1-4543-92f8-382f21c0bcaf</dc:identifier>
+        <dc:date>2022-02-16T16:36:55Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter039.html#point(/1/4/69:1)" end="OPS/xhtml/chapter039.html#point(/1/4/72:0)" progress="0.950617">
+                <text>Ordinarily it would take me about fifteen minutes to get a hallucination going, but oh a few occasions, when I smoked some marijuana beforehand, it came very quickly. But fifteen minutes was fast enough for me.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e56d1a03-d849-4cee-b22e-e16dfca9b887</dc:identifier>
+        <dc:date>2022-02-16T16:56:33Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter040.html#point(/1/4/36/7:102)" end="OPS/xhtml/chapter040.html#point(/1/4/36/7:317)" progress="0.962963">
+                <text>therefore, to bring it out now and speak of it explicitly. It’s a kind of scientific integrity, a principle of scientific thought that corresponds to a kind of utter honesty—a kind of leaning over backwards. For</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:db22f6fa-59bd-4324-978b-e594405e4fc8</dc:identifier>
+        <dc:date>2022-02-16T16:57:06Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter040.html#point(/1/4/36/7:360)" end="OPS/xhtml/chapter040.html#point(/1/4/37:0)" progress="0.962963">
+                <text>you should report everything that you think might make it invalid—not only what you think is right about it: other causes that could possibly explain your results; and things you thought of that you’ve eliminated by some other experiment, and how they worked—to make sure the other fellow can tell they have been eliminated.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f252a9d9-f6e0-47dd-acca-dc150f2f559c</dc:identifier>
+        <dc:date>2022-02-16T16:58:25Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter040.html#point(/1/4/40/1:3)" end="OPS/xhtml/chapter040.html#point(/1/4/42:0)" progress="0.966049">
+                <text>summary, the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f085a8b3-0dcf-470c-bb0e-bcdd07de48f8</dc:identifier>
+        <dc:date>2022-02-16T16:59:04Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter040.html#point(/1/4/38/1:358)" end="OPS/xhtml/chapter040.html#point(/1/4/40:0)" progress="0.966049">
+                <text>There is also a more subtle problem. When you have put a lot of ideas together to make an elaborate theory, you want to make sure, when explaining what it fits, that those things it fits are not just the things that gave you the idea for the theory; but that the finished theory makes something else come out right, in addition.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ee99b9d9-de2e-45ed-ad6b-7e04cafc0c57</dc:identifier>
+        <dc:date>2022-02-16T17:01:53Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter040.html#point(/1/4/44/1:57)" end="OPS/xhtml/chapter040.html#point(/1/4/44/1:322)" progress="0.966049">
+                <text>Other experimenters will repeat your experiment and find out whether you were wrong or right. Nature’s phenomena will agree or they’ll disagree with your theory. And, although you may gain some temporary fame and excitement, you will not gain a good reputation </text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-16T17:01:53Z</dc:date>
+            <text>long term thinking. Long term gain </text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:57819275-3d31-4ef7-af3f-35cf5d740f5f</dc:identifier>
+        <dc:date>2022-02-16T17:07:00Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OPS/xhtml/chapter040.html#point(/1/4/53:1)" end="OPS/xhtml/chapter040.html#point(/1/4/56:0)" progress="0.969136">
+                <text>The first principle is that you must not fool yourself—and you are the easiest person to fool. So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists. You just have to be honest in a conventional way after that.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-16T17:07:00Z</dc:date>
+            <text>Confirmation bias</text>
+        </content>
+    </annotation>
+</annotationSet>

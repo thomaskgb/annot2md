@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 files2convert = []
 
 args = sys.argv[1:]
-
+print(args)
 if not args:
     print('usage: annot2md.py filename or file list')
     sys.exit(1)
@@ -17,6 +17,7 @@ filename_raw = args[0]
 
 
 def convertannot(annotfile):
+    print(annotfile)
 
     try:
         with open(annotfile, "r", encoding="utf-8") as f:
@@ -26,7 +27,6 @@ def convertannot(annotfile):
             annotations = soup.find_all('annotation')
             if not annotations:
                 raise ValueError(annotfile + ' NOT CONVERTED -> has empty annotations')
-
         except ValueError as error:
             print(error)
             return
@@ -64,10 +64,12 @@ def convertannot(annotfile):
         # convert date to human readable
         datestrp = datetime.strptime(dateiso,"%Y-%m-%dT%H:%M:%S%z")
         date = datetime.date(datestrp)
-        citation_raw = annotation.target.find('text').get_text()
-        
-        # remove whitespace and enters
-        citation = " ".join(citation_raw.split()) 
+        if annotation.target.find('text') is not None:
+            citation_raw = annotation.target.find('text').get_text()
+            # remove whitespace and enters
+            citation = " ".join(citation_raw.split()) 
+        else:
+            citation = ""
         export.append(f'{i}. \"{citation}\" \n({date} , {progresspct}) \n\n')
         
         # read content and append note as comment

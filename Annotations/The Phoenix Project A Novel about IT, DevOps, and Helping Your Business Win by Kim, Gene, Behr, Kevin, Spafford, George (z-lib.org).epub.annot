@@ -1,0 +1,601 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9781942788300</dc:identifier>
+        <dc:title>The Phoenix Project</dc:title>
+        <dc:creator>Gene Kim</dc:creator>
+        <dc:description>Five years after this sleeper hit took on the world of IT and flipped it on it's head, the 3rd edition of The Phoenix Project continues to guide IT in the DevOps revolution. In this newly updated and expanded edition of the bestselling The Phoenix Project, co-author Gene Kim includes new research, a new foreword, and a sneak peek at the next project from Gene Kim and Jez Humble. Bill, an IT manager at Parts Unlimited, has been tasked with taking on a project critical to the future of the business, code named Phoenix Project. But the project is massively over budget and behind schedule. The CEO demands Bill must fix the mess in ninety days or else Bill's entire department will be outsourced. With the help of a prospective board member and his mysterious philosophy of The Three Ways, Bill starts to see that IT work has more in common with a manufacturing plant work than he ever imagined. With the clock ticking, Bill must organize work flow streamline interdepartmental...</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:70320748-4a57-4edc-9a12-e41dbe729da9</dc:identifier>
+        <dc:date>2022-02-13T00:54:13Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/08-Ch02.xhtml#point(/1/4/224/1:42)" end="OEBPS/08-Ch02.xhtml#point(/1/5:0)" progress="0.0730479">
+                <text>We need to establish an accurate timeline of relevant events. And so far, we’re basing everything on hearsay. 
+ That doesn’t work for solving crimes, and it definitely doesn’t work for solving outages.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bee1a7c1-1acf-4a14-9117-ba770c341223</dc:identifier>
+        <dc:date>2022-02-13T01:39:36Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/09-Ch03.xhtml#point(/1/4/227:1)" end="OEBPS/09-Ch03.xhtml#point(/1/5:0)" progress="0.0982368">
+                <text>An hour later I’m still staring at the ceiling, very much awake.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T01:39:36Z</dc:date>
+            <text>Never read mails before going tbed when you cant do anyting about them. also mental notes dont work. Write things down</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6f4bd078-5acf-40e1-9d16-efb7c6721606</dc:identifier>
+        <dc:date>2022-02-13T01:05:33Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/09-Ch03.xhtml#point(/1/4/58/1:380)" end="OEBPS/09-Ch03.xhtml#point(/1/4/58/1:457)" progress="0.0806045">
+                <text> He said he was going on vacation today, which is why the work was so urgent.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bd7ccb86-d2e9-4256-9a62-486ca9605f16</dc:identifier>
+        <dc:date>2022-02-13T02:53:00Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/10-Ch04.xhtml#point(/1/4/262/1:33)" end="OEBPS/10-Ch04.xhtml#point(/1/4/264:0)" progress="0.125945">
+                <text>more. I always liked that phrase in Saving Private Ryan: “There’s a chain of command: gripes go up, not down.”
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T02:53:00Z</dc:date>
+            <text>Be there for your people</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:279d36d2-8e44-4dfe-9a62-035e94a305df</dc:identifier>
+        <dc:date>2022-02-13T03:02:58Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/10-Ch04.xhtml#point(/1/4/331:1)" end="OEBPS/10-Ch04.xhtml#point(/1/4/333:0)" progress="0.130982">
+                <text>Before, I was merely worried that it Operations was under attack by Development, Information Security, Audit, and the business. Now, I’m starting to realize that my primary managers seem to be at war with each other, as well.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1b31dd55-248d-4346-af1c-098452a879d1</dc:identifier>
+        <dc:date>2022-02-13T02:45:05Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/10-Ch04.xhtml#point(/1/4/226/1:22)" end="OEBPS/10-Ch04.xhtml#point(/1/4/227:0)" progress="0.120907">
+                <text>This is surely evidence that the universe is out to get me today. </text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T02:45:05Z</dc:date>
+            <text>Some of those days...</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0fd5f093-9248-4238-bfa8-68c66f9a6cc3</dc:identifier>
+        <dc:date>2022-02-13T03:57:05Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/11-Ch05.xhtml#point(:1)" end="OEBPS/11-Ch05.xhtml#point(:1)" progress="0.15869"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a0eb442e-19a8-4a08-b935-ef845a5725b9</dc:identifier>
+        <dc:date>2022-02-13T03:52:37Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/11-Ch05.xhtml#point(/1/4/228/1:144)" end="OEBPS/11-Ch05.xhtml#point(/1/4/230/1:307)" progress="0.156171">
+                <text>At the very least, get me the work estimate to fix the audit findings. Then, for each of those resources, tell me what their other commitments are that we’re going to be pulling them off of.”
+ Thinking for a moment, I add, “For that matter, do the same thing for every person assigned to Phoenix. I’m guessing we’re overloaded, so I want to know by how much. I want to proactively tell people whose projects have been bumped, so they’re not surprised when we don’t deliver what we promised.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T03:52:37Z</dc:date>
+            <text>Solution 1</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8b2dd35d-08f5-4d7d-839d-ed259d713830</dc:identifier>
+        <dc:date>2022-02-13T10:45:02Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/13-Ch07.xhtml#point(/1/4/146/1:43)" end="OEBPS/13-Ch07.xhtml#point(/1/4/146/3:18)" progress="0.20403">
+                <text>. Eliyahu M. Goldratt, who created the Theory of Constraints, showed us how any improvements made anywhere besides the bottleneck are an illusion. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fae95ee1-a3ed-4a31-8c75-13356be88670</dc:identifier>
+        <dc:date>2022-02-13T12:38:54Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/15-Ch09.xhtml#point(/1/4/170/1:64)" end="OEBPS/15-Ch09.xhtml#point(/1/4/171:0)" progress="0.251889">
+                <text>changes represent yet another category of work but don’t know why. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a039e4ad-7bee-42a9-824e-0293ba8975ff</dc:identifier>
+        <dc:date>2022-02-13T12:39:03Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/15-Ch09.xhtml#point(/1/4/150/1:179)" end="OEBPS/15-Ch09.xhtml#point(/1/4/152:0)" progress="0.24937">
+                <text>Those projects certainly represent two categories of work: business projects and internal it projects.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ca54ae1f-947a-4171-a043-ab4fc2ea11ee</dc:identifier>
+        <dc:date>2022-02-13T12:51:22Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/16-Ch10.xhtml#point(/1/4/23:1)" end="OEBPS/16-Ch10.xhtml#point(/1/4/24/2:1)" progress="0.254408">
+                <text>On my walk over to Brent’s cube in Building 7, </text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T12:51:22Z</dc:date>
+            <text>Blatantly passing wes</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:946f9e02-5b58-4ead-ac03-b94deb3be14d</dc:identifier>
+        <dc:date>2022-02-13T14:24:27Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/18-Ch12.xhtml#point(/1/4/54/1:376)" end="OEBPS/18-Ch12.xhtml#point(/1/4/56/1:170)" progress="0.292191">
+                <text>
+ I smirk at the reference to smoke tests, a term circuit designers use. The saying goes, “If you turn the circuit board on and no smoke comes out, it’ll probably work.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3b2bf6b7-dcad-4fa4-818a-f96f5b8e1908</dc:identifier>
+        <dc:date>2022-02-13T16:08:02Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/20-Ch14.xhtml#point(/1/4/95:1)" end="OEBPS/20-Ch14.xhtml#point(/1/4/96/1:80)" progress="0.347607">
+                <text>“It’s like the free puppy,” I continue. “It’s not the upfront capital </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:78f3c04b-48a5-49a3-b674-9c6e4f0c7ff0</dc:identifier>
+        <dc:date>2022-02-13T16:04:34Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/20-Ch14.xhtml#point(/1/4/86/1:17)" end="OEBPS/20-Ch14.xhtml#point(/1/4/92:0)" progress="0.347607">
+                <text>It’s crazy what programmers, and even managers like me, have to learn every couple of years. Sometimes it’s a totally new database technology, a new programming or project management method, or a new technology delivery model, like cloud computing. 
+ “Just how many times can you throw out everything you know to keep up with the latest new-fangled trend? I look in the mirror every once in awhile, asking myself, ‘Will this be the year that I give up? Will I spend the rest of my career doing cobol maintenance or become just another has-been middle manager?’”
+ I laugh sympathetically. I chose to be in the technology backwaters. I was happy there. That is, until Steve threw me back into the big, shark-infested pool.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T16:04:34Z</dc:date>
+            <text>True story...constant pressure</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:83920c54-3122-41d7-b050-6b6cee5a0ed6</dc:identifier>
+        <dc:date>2022-02-13T15:57:33Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/20-Ch14.xhtml#point(/1/4/64/1:178)" end="OEBPS/20-Ch14.xhtml#point(/1/4/66:0)" progress="0.342569">
+                <text>. I’m the ex-Marine, after all. She’s just a “nice nurse.”
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T15:57:33Z</dc:date>
+            <text>Wow...</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:67d3251f-af58-4018-8492-a8e2ef852889</dc:identifier>
+        <dc:date>2022-02-14T11:30:24Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/21-Ch15.xhtml#point(/1/4/214/3:41)" end="OEBPS/21-Ch15.xhtml#point(/1/4/214/3:83)" progress="0.372796">
+                <text>that changes are another category of work.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T11:30:24Z</dc:date>
+            <text>I dont understand how this is different from internal it projects</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:164c7f12-619c-4a10-8acb-255da884a4a7</dc:identifier>
+        <dc:date>2022-02-13T16:50:43Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/21-Ch15.xhtml#point(/1/4/163:1)" end="OEBPS/21-Ch15.xhtml#point(/1/4/168:0)" progress="0.367758">
+                <text>That’s why Erik called it the most destructive type of work. It’s not really work at all, like the others. The others are what you planned on doing, allegedly because you needed to do it.
+ Unplanned work is what prevents you from doing it. Like matter and antimatter, in the presence of unplanned work, all planned work ignites with incandescent fury, incinerating everything around it. Like Phoenix.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9dd7939c-9456-41b0-88db-3bd5f51d8554</dc:identifier>
+        <dc:date>2022-02-13T17:03:27Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/21-Ch15.xhtml#point(/1/4/238/1:180)" end="OEBPS/21-Ch15.xhtml#point(/1/4/238/3:22)" progress="0.375315">
+                <text>The Goal by Dr. Eli Goldratt. </text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-13T17:03:27Z</dc:date>
+            <text>Good book?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5bf45ea8-2710-4e56-b025-4c8200431992</dc:identifier>
+        <dc:date>2022-02-14T11:27:25Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/21-Ch15.xhtml#point(/1/4/200/1:165)" end="OEBPS/21-Ch15.xhtml#point(/1/4/202/1:131)" progress="0.370277">
+                <text>
+ I call Erik, who answers on the first ring. “Hey, Bill. How are you guys doing after Phoenix crashed and burned so spectacularly?</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T11:27:25Z</dc:date>
+            <text>Read this part again</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:96ce5e69-4bd2-4bcb-bf6c-5075d423a67f</dc:identifier>
+        <dc:date>2022-02-14T12:29:16Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/24-Ch17.xhtml#point(/1/4/72/1:28)" end="OEBPS/24-Ch17.xhtml#point(/1/4/74:0)" progress="0.415617">
+                <text>Honey, I know he’s a bastard, but we both still need to earn a living. Promise me that you’ll listen to what Steve has to say and keep an open mind, okay? Bill? Okay?”
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T12:29:16Z</dc:date>
+            <text>Why? after all the family unhappyness... Money over happynes...</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ab113694-2710-4372-9a5b-d5be85c2cd11</dc:identifier>
+        <dc:date>2022-02-14T16:16:57Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/26-Ch19.xhtml#point(/1/4/160/1:162)" end="OEBPS/26-Ch19.xhtml#point(/1/4/160/1:167)" progress="0.448363">
+                <text> Erik</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T16:16:57Z</dc:date>
+            <text>What is he even doing there?!</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:deaf7805-9f89-4b16-9b86-b7256faa0f23</dc:identifier>
+        <dc:date>2022-02-14T16:26:14Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/26-Ch19.xhtml#point(/1/4/188/1:36)" end="OEBPS/26-Ch19.xhtml#point(/1/4/188/1:206)" progress="0.450882">
+                <text>Well put, Bill. You’ve just described ‘technical debt’ that is not being paid down. It comes from taking shortcuts, which may make sense in the short-term. But like</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:90fe9728-4595-436b-944b-2eb0213d3fa0</dc:identifier>
+        <dc:date>2022-02-14T19:33:31Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/26-Ch19.xhtml#point(/1/4/298/3:7)" end="OEBPS/26-Ch19.xhtml#point(/1/4/299:0)" progress="0.463476">
+                <text>That by halting all work except for Phoenix, we’ll reduce the amount of wip in it, and that this will somehow improve due-date performance? Is that seriously what you’re suggesting?”</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T19:33:31Z</dc:date>
+            <text>Isnt this what i have been doing by clearing my inboxes?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:425591d5-02f7-4343-81fc-e42f5397a138</dc:identifier>
+        <dc:date>2022-02-14T15:54:50Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/26-Ch19.xhtml#point(/1/4/100/1:3)" end="OEBPS/26-Ch19.xhtml#point(/1/4/100/1:226)" progress="0.440806">
+                <text>First, I’d like to thank all of you for giving of yourself and doing that exercise with me,” he says. “Although it’s nice to get to know each of you better, I wouldn’t do this if I didn’t think it was important.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T15:54:50Z</dc:date>
+            <text>Haha seriously so suppericial... 5min of sharing...</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:41e8a140-a9c3-4e7e-8adb-a3b4e272d77c</dc:identifier>
+        <dc:date>2022-02-14T16:27:34Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/26-Ch19.xhtml#point(/1/4/188/1:207)" end="OEBPS/26-Ch19.xhtml#point(/1/4/188/1:427)" progress="0.453401">
+                <text>financial debt, the compounding interest costs grow over time. If an organization doesn’t pay down its technical debt, every calorie in the organization can be spent just paying interest, in the form of unplanned work.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T16:27:34Z</dc:date>
+            <text>Compound interest. Stays in the mind if not dealt with</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:992b3fe0-1b53-4f9c-bf9f-3fabb8d2efc7</dc:identifier>
+        <dc:date>2022-02-14T20:14:38Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/27-Ch20.xhtml#point(/1/4/190/1:154)" end="OEBPS/27-Ch20.xhtml#point(/1/4/193:0)" progress="0.486146">
+                <text>
+ I hurriedly write down, “Work center: machine, man, method, measure.”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6980f649-5a72-499d-a497-c3347802bf51</dc:identifier>
+        <dc:date>2022-02-14T20:31:52Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/27-Ch20.xhtml#point(/1/4/250/1:31)" end="OEBPS/27-Ch20.xhtml#point(/1/4/250/3:196)" progress="0.493703">
+                <text>Properly elevating preventive work is at the heart of programs like Total Productive Maintenance, which has been embraced by the Lean Community. tpm insists that we do whatever it takes to assure machine availability by elevating maintenance. As one of my senseis would say, ‘Improving daily work is even more important than doing daily work.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T20:31:52Z</dc:date>
+            <text>Constantly look for improvements on how to do the work... How do you find ballance? inuition?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:344425af-3bc7-4626-9c64-96aff25b0d7e</dc:identifier>
+        <dc:date>2022-02-14T20:33:55Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/27-Ch20.xhtml#point(/1/4/250/3:199)" end="OEBPS/27-Ch20.xhtml#point(/1/4/250/3:365)" progress="0.493703">
+                <text> The Third Way is all about ensuring that we’re continually putting tension into the system, so that we’re continually reinforcing habits and improving something.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f5a5f634-72b0-4890-b602-65ff2321971a</dc:identifier>
+        <dc:date>2022-02-14T20:35:57Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/27-Ch20.xhtml#point(/1/4/252/1:3)" end="OEBPS/27-Ch20.xhtml#point(/1/4/252/1:308)" progress="0.493703">
+                <text>Sensei Mike Rother says that it almost doesn’t matter what you improve, as long as you’re improving something. Why? Because if you are not improving, entropy guarantees that you are actually getting worse, which ensures that there is no path to zero errors, zero work-related accidents, and zero loss.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T20:35:57Z</dc:date>
+            <text>Entropy</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:811e51b0-f7c1-493e-bb02-3ac00e2f99a2</dc:identifier>
+        <dc:date>2022-02-14T20:48:40Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/27-Ch20.xhtml#point(/1/4/256/1:19)" end="OEBPS/27-Ch20.xhtml#point(/1/4/258:0)" progress="0.493703">
+                <text>Sensei Rother calls this the Improvement Kata,” he continues. “He used the word kata, because he understood that repetition creates habits, and habits are what enable mastery. Whether you’re talking about sports training, learning a musical instrument, or training in the Special Forces, nothing is more to mastery than practice and drills. Studies have shown that practicing five minutes daily is better than practicing once a week for three hours. And if you want to create a genuine culture of improvement, you must create those habits.”
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-14T20:48:40Z</dc:date>
+            <text>Practise makes perfect... Or habits do ..</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:55eeb972-6957-4fdb-bbaa-0ffa80bb8917</dc:identifier>
+        <dc:date>2022-02-17T17:44:57Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/29-Ch22.xhtml#point(/1/4/97:1)" end="OEBPS/29-Ch22.xhtml#point(/1/4/99:0)" progress="0.528967">
+                <text>Erik had mentioned this kata term and the continual two-week improvement cycles before. Once again, Patty is at least one step ahead of me. </text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-17T17:44:57Z</dc:date>
+            <text>Research kata</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c514c9b0-c091-4f03-8c30-4d0fa57f1252</dc:identifier>
+        <dc:date>2022-02-17T18:05:16Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/29-Ch22.xhtml#point(/1/4/158/1:44)" end="OEBPS/29-Ch22.xhtml#point(/1/4/158/1:176)" progress="0.536524">
+                <text>. Even though we have so much data on projects, changes, and tickets, we’ve never organized and linked them all together this way </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:952e6b6a-61a9-445d-9cc5-d3d091e7cc73</dc:identifier>
+        <dc:date>2022-02-17T18:22:43Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/30-Ch23.xhtml#point(/1/4/46/1:2)" end="OEBPS/30-Ch23.xhtml#point(/1/4/49:0)" progress="0.546599">
+                <text>conclude, “So, for the Phoenix task, assuming we have seven handoffs, and that each of those resources is busy ninety percent of the time, the tasks would spend in queue a total of nine hours times the seven steps…” 
+ “What? Sixty-three hours, just in queue time?” Wes says, incredulously. “That’s impossible!”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1434cbe6-c2d8-4d24-8d2b-cdd5ff93b340</dc:identifier>
+        <dc:date>2022-02-17T18:24:45Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/30-Ch23.xhtml#point(/1/4/60/1:12)" end="OEBPS/30-Ch23.xhtml#point(/1/4/62:0)" progress="0.546599">
+                <text>“What that graph says is that everyone needs idle time, or slack time. If no one has slack time, wip gets stuck in the system. Or more specifically, stuck in queues, just waiting.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:140150f0-24fa-4ecb-8b39-22c52a2aab7d</dc:identifier>
+        <dc:date>2022-02-25T17:43:11Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/32-Ch25.xhtml#point(/1/4/166/1:442)" end="OEBPS/32-Ch25.xhtml#point(/1/4/166/3:9)" progress="0.589421">
+                <text>coso Cube.’</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:170f9bdb-197f-4ad2-9a28-f5d2c2c2c7ec</dc:identifier>
+        <dc:date>2022-02-25T17:43:25Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/32-Ch25.xhtml#point(/1/4/164/9:75)" end="OEBPS/32-Ch25.xhtml#point(/1/4/166:0)" progress="0.589421">
+                <text>You must find where you’ve under-scoped it—where certain portions of the processes and technology you manage actively jeopardizes the achievement of business goals—as codified by Dick’s measurements. And secondly, John must find where he’s over-scoped it, such as all those sox-404 it controls that weren’t necessary to detect material errors in the financial statements.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f50f0733-3b81-41be-8d54-f77e233a6f7b</dc:identifier>
+        <dc:date>2022-02-26T11:23:22Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/33-Ch26.xhtml#point(/1/4/121:1)" end="OEBPS/33-Ch26.xhtml#point(/1/4/123:0)" progress="0.609572">
+                <text>“In these competitive times, the name of the game is quick time to market and to fail fast. We just can’t have multiyear product development timelines, waiting until the end to figure out whether we have a winner or loser on our hands. We need short and quick cycle times to continually integrate feedback from the marketplace.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-26T11:23:22Z</dc:date>
+            <text>speed speed speed... Before you know it its over</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4735a59d-e31f-4348-9431-a2610492ffd3</dc:identifier>
+        <dc:date>2022-02-26T11:29:39Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/33-Ch26.xhtml#point(/1/4/139:1)" end="OEBPS/33-Ch26.xhtml#point(/1/4/142:0)" progress="0.609572">
+                <text>Nothing unifies people better than complaining about it.
+</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2022-02-26T11:29:39Z</dc:date>
+            <text>A good comon ennemy</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:218a14ee-3ca3-48b8-b4de-a605f6688442</dc:identifier>
+        <dc:date>2022-02-26T14:20:49Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/38-Ch30.xhtml#point(/1/4/42/1:89)" end="OEBPS/38-Ch30.xhtml#point(/1/4/44:0)" progress="0.680101">
+                <text>. “In manufacturing, we have a measure called takt time, which is the cycle time needed in order to keep up with customer demand. If any operation in the flow of work takes longer than the takt time, you will not be able to keep up with customer demand.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:45b61d97-0615-4479-ac9c-e80144f16cd8</dc:identifier>
+        <dc:date>2022-02-26T14:26:13Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/38-Ch30.xhtml#point(/1/4/56/1:49)" end="OEBPS/38-Ch30.xhtml#point(/1/4/58:0)" progress="0.68262">
+                <text>They closely observed all the steps required to do the changeover, and then put in a series of preparations and improvements that brought the changeover time down to under ten minutes. And that, of course, is where the legendary ‘single-minute exchange of die’ term comes from.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:56984b80-d09c-46b1-9a22-f7f421e13633</dc:identifier>
+        <dc:date>2022-02-26T14:31:59Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/38-Ch30.xhtml#point(/1/4/76/3:70)" end="OEBPS/38-Ch30.xhtml#point(/1/4/76/5:21)" progress="0.687657">
+                <text>They also knew that until code is in production, no value is actually being generated, because it’s merely wip stuck in the system.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:51cec4cd-cf29-4d71-b37a-0ea1c9f95be7</dc:identifier>
+        <dc:date>2022-02-26T14:33:38Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/38-Ch30.xhtml#point(/1/4/78/1:242)" end="OEBPS/38-Ch30.xhtml#point(/1/4/78/3:1)" progress="0.690176">
+                <text>seminal book Continuous Delivery.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:92d0702b-a33e-4a94-8b5e-d9c2fc2eff67</dc:identifier>
+        <dc:date>2022-02-26T14:36:41Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/38-Ch30.xhtml#point(/1/4/82/1:167)" end="OEBPS/38-Ch30.xhtml#point(/1/4/82/3:170)" progress="0.690176">
+                <text>says, “you need to create what Humble and Farley called a deployment pipeline. That’s your entire value stream from code check-in to production. That’s not an art. That’s production. You need to get everything in version control. Everything.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:709e691e-27bd-4b78-8478-53c0ef23bb6a</dc:identifier>
+        <dc:date>2022-02-26T18:14:59Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/39-Ch31.xhtml#point(/1/4/118/3:81)" end="OEBPS/39-Ch31.xhtml#point(/1/4/120/1:376)" progress="0.707809">
+                <text>ping-pong code, scripts, and God knows what else among groups.”
+ Patty chimes in. “On the manufacturing floor, whenever we see work go backward, that’s rework. When that happens, you can bet that the amount of documentation and information flow is going to be pretty poor, which means nothing is reproducible and that it’s going to get worse over time as we try to go faster. They call this ‘non-value-add’ activity or ‘waste.’</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ff0f3339-d17f-4b96-9b02-b379b3e95e67</dc:identifier>
+        <dc:date>2022-02-26T20:12:57Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/43-Ch35.xhtml#point(/1/4/19:1)" end="OEBPS/43-Ch35.xhtml#point(/1/4/22/1:357)" progress="0.768262">
+                <text>John loved this, and started a new project called “Evil Chaos Monkey.” Instead of generating operational faults in production, it would constantly try to exploit security holes, fuzz our applications with storms of malformed packets, try to install backdoors, gain access to confidential data, and all sorts of other nefarious attacks.
+ Of course, Wes tried to stop this. He insisted that we schedule penetration tests into predefined time frames. However, I convinced him this is the fastest means to institutionalize Erik’s Third Way. We need to create a culture that reinforces the value of taking risks and learning from failure and the need for repetition and practice to create mastery.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7f3c1cc2-2060-4b2b-b211-76795e4b9094</dc:identifier>
+        <dc:date>2022-02-26T20:29:03Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/43-Ch35.xhtml#point(/1/4/84/1:3)" end="OEBPS/43-Ch35.xhtml#point(/1/4/88:0)" progress="0.775819">
+                <text>While we’re dreaming big dreams here, let me say this,” he continues. “In ten years, I’m certain every coo worth their salt will have come from it. Any coo who doesn’t intimately understand the it systems that actually run the business is just an empty suit, relying on someone else to do their job.”
+ Steve’s vision takes my breath away. He’s right. Everything my team has learned, as well as what Chris and John have learned, shows that when it fails, the business fails. It stands to reason that if it is organized so that it can win, the business wins, too.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:03dc02d2-4fc7-4a39-b8f3-37b0ab4825a3</dc:identifier>
+        <dc:date>2022-02-26T20:31:28Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/43-Ch35.xhtml#point(/1/4/94/1:51)" end="OEBPS/43-Ch35.xhtml#point(/1/4/98:0)" progress="0.778338">
+                <text>You know, when Erik and I first met, many months ago, he said that the relationship between it and the business is like a dysfunctional marriage—both feel powerless and held hostage by the other. I’ve thought about this for months, and I finally figured something out.
+ “A dysfunctional marriage assumes that the business and it are two separate entities. it should either be embedded into business operations or into the business. Voilà! There you go. No tension. No marriage, and maybe no it Department, either.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

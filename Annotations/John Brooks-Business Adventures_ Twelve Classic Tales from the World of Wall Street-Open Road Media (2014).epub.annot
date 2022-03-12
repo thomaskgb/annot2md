@@ -1,0 +1,17 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9781497640191</dc:identifier>
+        <dc:title>Business Adventures: Twelve Classic Tales from the World of Wall Street</dc:title>
+        <dc:creator>John Brooks</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:d1cebdff-202b-4682-bf86-ee69e8454e59</dc:identifier>
+        <dc:date>2013-01-15T06:47:57Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="titlepage.xhtml#point(/1/4/2/2/2:0)" end="titlepage.xhtml#point(/1/4/2/2/2:0)" progress="0.0027027"/>
+        </target>
+    </annotation>
+</annotationSet>

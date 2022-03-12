@@ -1,0 +1,438 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9780553898194</dc:identifier>
+        <dc:title>Snow Crash</dc:title>
+        <dc:creator>Neal Stephenson</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:14e6bb44-50f4-400d-a6fe-edecbc74a115</dc:identifier>
+        <dc:date>2013-01-15T13:12:44Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c01_r1.htm#point(/1/4/1/52/1:853)" end="OEBPS/Step_9780553898194_epub_c01_r1.htm#point(/1/4/1/53:0)" progress="0.0194384">
+                <text>Fairlanes roads emphasize getting you there, for Type A drivers, and Cruiseways emphasize the enjoyment of the ride, for Type B drivers.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b8ac7faf-918e-4c7b-990a-4584b0fd7f10</dc:identifier>
+        <dc:date>2013-01-15T14:08:00Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c02_r1.htm#point(/1/4/1/140/1:189)" end="OEBPS/Step_9780553898194_epub_c02_r1.htm#point(/1/4/1/140/1:220)" progress="0.0410367">
+                <text>And an address in the Metaverse</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7b47c95e-e19e-4d31-875f-0aed1e2dc1b5</dc:identifier>
+        <dc:date>2013-01-16T04:10:55Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c03_r1.htm#point(/1/4/1/70/1:72)" end="OEBPS/Step_9780553898194_epub_c03_r1.htm#point(/1/4/1/70/1:192)" progress="0.0583153">
+                <text> getting in on it early, Hiro's buddies got a head start on the whole business. Some of them even got very rich off of i</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2013-01-16T04:10:55Z</dc:date>
+            <text>Analogy crypto</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7d885cb0-ecdc-42ba-bbc3-a45d6ef299d2</dc:identifier>
+        <dc:date>2013-01-16T04:08:06Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c03_r1.htm#point(/1/4/1/66/1:604)" end="OEBPS/Step_9780553898194_epub_c03_r1.htm#point(/1/4/1/66/1:653)" progress="0.0583153">
+                <text>hat have been engineered by major corporations. I</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2013-01-16T04:08:06Z</dc:date>
+            <text>Why not individuals?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2fcf7a43-b719-427b-abf5-5aa34cad1c02</dc:identifier>
+        <dc:date>2013-01-16T04:05:16Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c03_r1.htm#point(/1/4/1/60/1:421)" end="OEBPS/Step_9780553898194_epub_c03_r1.htm#point(/1/4/1/62/7:157)" progress="0.0561555">
+                <text>
+ The number 65,536 is an awkward figure to everyone except a hacker, who recognizes it more readily than his own mother's date of birth: It happens to be a power of 2—216 power to be exact—and even the exponent 16 is equal to 24, and 4 is equal to 22. Along with 256; 32,768; and 2,147,483,648; 65,536 is one of the foundation stones of the hacker universe, in which 2 is the only really important number be</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2013-01-16T04:05:16Z</dc:date>
+            <text>Look up table power 2</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f39df23a-f76d-4480-b67d-eadcaedc6792</dc:identifier>
+        <dc:date>2013-01-16T04:12:40Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c03_r1.htm#point(/1/4/1/72/1:94)" end="OEBPS/Step_9780553898194_epub_c03_r1.htm#point(/1/4/1/72/1:152)" progress="0.0583153">
+                <text>Real estate acumen does not always extend across universes</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f6328428-62c7-4e0f-b793-089d239aa246</dc:identifier>
+        <dc:date>2013-01-18T02:07:37Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c04_r1.htm#point(/1/4/1/90/1:96)" end="OEBPS/Step_9780553898194_epub_c04_r1.htm#point(/1/4/1/90/1:190)" progress="0.0799136">
+                <text>They just know stuff, or they just go around and videotape stuff. They put it in the Library. </text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2013-01-18T02:07:37Z</dc:date>
+            <text>Social media cfr library?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:55aa8b9c-5827-43b2-8b20-3f537f0ce004</dc:identifier>
+        <dc:date>2013-01-18T01:52:50Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c04_r1.htm#point(/1/4/1/63:1)" end="OEBPS/Step_9780553898194_epub_c04_r1.htm#point(/1/4/1/65:0)" progress="0.075594">
+                <text>The world is full of power and energy and a person can go far by just skimming off a tiny bit of it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9bbf15c4-8da9-46fa-ab80-3beb6748e49c</dc:identifier>
+        <dc:date>2013-01-18T01:35:35Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c04_r1.htm#point(/1/4/1/40/1:199)" end="OEBPS/Step_9780553898194_epub_c04_r1.htm#point(/1/4/1/40/1:368)" progress="0.0669546">
+                <text>Now they have superconducting poons that stick to aluminum bodywork by inducing eddy currents in the actual flesh of the car, turning it into an unwilling electromagnet,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bf59a912-cbc4-422d-9d54-753eaad77aec</dc:identifier>
+        <dc:date>2021-11-05T08:47:43Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/37:1)" end="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/38/1:271)" progress="0.0863931">
+                <text>When Hiro learned how to do this, way back fifteen years ago, a hacker could sit down and write an entire piece of software by himself. Now, that's no longer possible. Software comes out of factories, and hackers are, to a greater or lesser extent, assembly-line workers.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fdcc0e61-469d-411b-b756-bba41cb7626e</dc:identifier>
+        <dc:date>2013-01-18T02:11:44Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/6/1:172)" end="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/6/1:222)" progress="0.0820734">
+                <text>The people are pieces of software called avatars. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:15d425cc-def0-4c74-9711-b3a0eef27852</dc:identifier>
+        <dc:date>2021-11-05T09:04:56Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/78/1:7)" end="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/78/1:230)" progress="0.0950324">
+                <text>snow crash” is computer lingo. It means a system crash—a bug—at such a fundamental level that it frags the part of the computer that controls the electron beam in the monitor, making it spray wildly across the screen,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:81ebee77-ef7f-43a3-a1f6-92ef940b435f</dc:identifier>
+        <dc:date>2021-11-05T08:58:10Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/58/1:78)" end="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/58/1:155)" progress="0.0907127">
+                <text>The Street protocol states that your avatar can't be any taller than you are.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:56a97c5b-df4c-4330-97d6-139b89af91bd</dc:identifier>
+        <dc:date>2013-01-18T02:18:29Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/14/1:58)" end="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/14/1:140)" progress="0.0842333">
+                <text>, a person who is coming in from a public terminal, then you materialize in a Port</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:10863848-b3a6-4c36-8ccb-7cc6c901f525</dc:identifier>
+        <dc:date>2021-11-05T08:52:43Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/50/1:380)" end="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/51:0)" progress="0.0907127">
+                <text>On the Street, avatars just walk right through each other.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7b67d378-9385-4e1d-9a6d-ea8976c3d06a</dc:identifier>
+        <dc:date>2021-11-05T08:47:48Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/38/1:272)" end="OEBPS/Step_9780553898194_epub_c05_r1.htm#point(/1/4/1/39:0)" progress="0.0863931">
+                <text>Worse yet, they may become managers who never get to write any code themselves.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6a1b114b-ad14-42ba-a5d4-cd50656f285b</dc:identifier>
+        <dc:date>2021-11-05T12:56:15Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c07_r1.htm#point(/1/4/1/53:1)" end="OEBPS/Step_9780553898194_epub_c07_r1.htm#point(/1/4/1/54/2:1)" progress="0.12959">
+                <text>Condense fact from the vapor of nuance.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:15a7e1f7-68f3-40c7-967b-5b0ec32bdb68</dc:identifier>
+        <dc:date>2021-11-05T12:23:05Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c07_r1.htm#point(/1/4/1/8/1:175)" end="OEBPS/Step_9780553898194_epub_c07_r1.htm#point(/1/4/1/8/1:420)" progress="0.11879">
+                <text>In The Black Sun, a daemon is like an avatar, but it does not represent a human being. It's a robot that lives in the Metaverse. A piece of software, a kind of spirit that inhabits the machine, usually with some particular role to carry out. The</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:00bb76a9-c7cc-46e7-b9ae-7b8a0d1a60d2</dc:identifier>
+        <dc:date>2021-11-05T13:22:35Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c08_r1.htm#point(/1/4/1/14/1:190)" end="OEBPS/Step_9780553898194_epub_c08_r1.htm#point(/1/4/1/16:0)" progress="0.138229">
+                <text>That no matter how good it is, the Metaverse is distorting the way people talk to each other, and she wants no such distortion in her relationships.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:260310cd-62cd-4648-8510-5e7c84676e92</dc:identifier>
+        <dc:date>2021-11-07T15:12:18Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c09_r1.htm#point(/1/4/1/82/1:17)" end="OEBPS/Step_9780553898194_epub_c09_r1.htm#point(/1/4/1/82/1:133)" progress="0.155508">
+                <text>This is not the old days, my friend. I've got so much antiviral medicine in my system that nothing could get through</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:34a8b25d-220a-4903-8e41-d98831c3d304</dc:identifier>
+        <dc:date>2021-11-07T15:05:21Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c09_r1.htm#point(/1/4/1/21:1)" end="OEBPS/Step_9780553898194_epub_c09_r1.htm#point(/1/4/1/24:0)" progress="0.151188">
+                <text>“Must be Bigboard,” Hiro says. “It has one routine that patches some of the traps in low memory, for a moment.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:93a69613-586e-4eda-8bfe-41a1bbf6b1c8</dc:identifier>
+        <dc:date>2021-11-07T16:03:16Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c10_r1.htm#point(/1/4/1/154/1:35)" end="OEBPS/Step_9780553898194_epub_c10_r1.htm#point(/1/4/1/154/1:74)" progress="0.177106">
+                <text>ead smacks into the whiplash arrestor. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:00f10691-c66f-41f1-948a-7469609a5e85</dc:identifier>
+        <dc:date>2021-11-11T15:23:57Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c13_r1.htm#point(/1/4/1/7:1)" end="OEBPS/Step_9780553898194_epub_c13_r1.htm#point(/1/4/1/8/1:129)" progress="0.213823">
+                <text>When Hiro wrote The Black Sun's sword-fighting algorithms—code that was later picked up and adopted by the entire Metaverse—h</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2021-11-11T15:23:57Z</dc:date>
+            <text>Opensource community driven</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b3421a43-9356-42aa-baad-ee3d512e6f74</dc:identifier>
+        <dc:date>2021-11-11T16:38:54Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/84/1:344)" end="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/85:0)" progress="0.239741">
+                <text>The Metaverse—the entire Street—exists by virtue of a network that I own and control.</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2021-11-11T16:38:54Z</dc:date>
+            <text>in these pages the names could be replaced by zuckerberg and google...</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d835499a-a64b-4968-ad37-e0dcd4ce98d3</dc:identifier>
+        <dc:date>2021-11-11T16:43:49Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/92/1:92)" end="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/92/1:106)" progress="0.241901">
+                <text>infoastronomy,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0f25bf58-ba55-4851-9f6a-a7c035e98185</dc:identifier>
+        <dc:date>2021-11-11T16:45:11Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/92/1:397)" end="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/92/1:468)" progress="0.241901">
+                <text>, to turn them into a single giant antenna as big as the whole earth. H</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2021-11-11T16:45:11Z</dc:date>
+            <text>True todsy</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7438d5cf-a3a0-4afc-a997-3e0191276fc6</dc:identifier>
+        <dc:date>2021-11-11T16:31:55Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/62/1:3)" end="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/63:0)" progress="0.237581">
+                <text>Yeah, you know, a monopolist's work is never done. No such thing as a perfect monopoly. Seems like you can never get that last one-tenth of one percent.”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f904e6ce-c168-4939-9004-bea7c4804379</dc:identifier>
+        <dc:date>2021-11-11T16:57:01Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/130/1:324)" end="OEBPS/Step_9780553898194_epub_c14_r1.htm#point(/1/4/1/130/1:531)" progress="0.24622">
+                <text>America's like this big old clanking, smoking machine that just lumbers across the landscape scooping up and eating everything in sight. Leaves behind a trail of garbage a mile wide. Always needs more fuel. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:217dae6c-aac6-4b7a-a6fc-e18c5c0853f7</dc:identifier>
+        <dc:date>2021-11-23T04:36:47Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c22_r1.htm#point(/1/4/1/44/1:0)" end="OEBPS/Step_9780553898194_epub_c22_r1.htm#point(/1/4/1/44/1:0)" progress="0.356371"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9c3a85c3-2df4-4855-9647-79b1da9e0182</dc:identifier>
+        <dc:date>2021-11-23T06:01:39Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c24_r1.htm#point(/1/4/1/172/1:4)" end="OEBPS/Step_9780553898194_epub_c24_r1.htm#point(/1/4/1/172/1:398)" progress="0.393089">
+                <text>franchise and the virus work on the same principle: what thrives in one place will thrive in another. You just have to find a sufficiently virulent business plan, condense it into a three-ring binder—its DNA—xerox it, and embed it in the fertile lining of a well-traveled highway, preferably one with a left-turn lane. Then the growth will expand until it runs up against its property lines</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c71ebae0-d269-4bff-8beb-8e15391c213c</dc:identifier>
+        <dc:date>2021-11-23T06:07:41Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c25_r1.htm#point(/1/4/1/16/1:0)" end="OEBPS/Step_9780553898194_epub_c25_r1.htm#point(/1/4/1/16/1:0)" progress="0.397408"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:eb33798f-d378-4efd-88a3-df459a99fd6f</dc:identifier>
+        <dc:date>2021-11-23T06:55:37Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c26_r1.htm#point(/1/4/1/94/1:152)" end="OEBPS/Step_9780553898194_epub_c26_r1.htm#point(/1/4/1/97:0)" progress="0.414687">
+                <text>Wait a minute, Juanita. Make up your mind. This Snow Crash thing—is it a virus, a drug, or a religion?”
+ Juanita shrugs. “What's the difference?”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:50e743fc-ac2e-47a8-b2b0-ece7849e8448</dc:identifier>
+        <dc:date>2021-11-30T20:11:49Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c28_r1.htm#point(/1/4/1/138/1:298)" end="OEBPS/Step_9780553898194_epub_c28_r1.htm#point(/1/4/1/140:0)" progress="0.447084">
+                <text>Many linguists have tried to understand Babel, the question of why human language tends to fragment, rather than converging on a common tongue.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b42a4951-e1cd-4f90-8587-c35c2586890f</dc:identifier>
+        <dc:date>2021-11-30T20:08:51Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c28_r1.htm#point(/1/4/1/128/1:12)" end="OEBPS/Step_9780553898194_epub_c28_r1.htm#point(/1/4/1/128/1:27)" progress="0.444924">
+                <text> Babel story, i</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2021-11-30T20:08:51Z</dc:date>
+            <text>what is a babel story?</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:333577dc-3589-495e-b93f-40c11a48c6a0</dc:identifier>
+        <dc:date>2021-11-30T22:20:25Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c31_r1.htm#point(/1/4/1/108/1:393)" end="OEBPS/Step_9780553898194_epub_c31_r1.htm#point(/1/4/1/108/1:491)" progress="0.492441">
+                <text>ring of seventeen atoms that acts like a magic key that allows them to pass through cell walls. Th</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:42d68e05-894b-4a03-b7ce-cf52eff47fc9</dc:identifier>
+        <dc:date>2021-12-03T02:55:54Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c40_r1.htm#point(/1/4/1/79:1)" end="OEBPS/Step_9780553898194_epub_c40_r1.htm#point(/1/4/1/82:0)" progress="0.62851">
+                <text>He turns off all of the techno-shit in his goggles. All it does is confuse him; he stands there reading statistics about his own death even as it's happening to him. Very post-modern. Time to get immersed in Reality, like all the people around him.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bfaa9851-df18-4315-a434-0244e8598fd4</dc:identifier>
+        <dc:date>2021-12-03T07:41:14Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c48_r1.htm#point(/1/4/1/62/1:329)" end="OEBPS/Step_9780553898194_epub_c48_r1.htm#point(/1/4/1/62/1:370)" progress="0.727862">
+                <text>the Metaverse is wide open and undefended</text>
+            </fragment>
+        </target>
+        <content>
+            <dc:date>2021-12-03T07:41:14Z</dc:date>
+            <text>As the internet is</text>
+        </content>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a97b6129-a271-479a-8e0c-15601aba289c</dc:identifier>
+        <dc:date>2021-12-03T14:34:33Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c56_r1.htm#point(/1/4/1/34/1:373)" end="OEBPS/Step_9780553898194_epub_c56_r1.htm#point(/1/4/1/36:0)" progress="0.820734">
+                <text>Any information system of sufficient complexity will inevitably become infected with viruses—viruses generated from within itself.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:54fc5c0d-d83b-405b-b4fe-fd9217120ce2</dc:identifier>
+        <dc:date>2021-12-03T15:17:44Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/Step_9780553898194_epub_c57_r1.htm#point(/1/4/1/10/1:338)" end="OEBPS/Step_9780553898194_epub_c57_r1.htm#point(/1/4/1/10/1:388)" progress="0.835853">
+                <text> there was more than just vaccine in those needles</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

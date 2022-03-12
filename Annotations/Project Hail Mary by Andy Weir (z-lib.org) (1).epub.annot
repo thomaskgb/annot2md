@@ -1,0 +1,82 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>calibre:20846</dc:identifier>
+        <dc:title>Project Hail Mary</dc:title>
+        <dc:creator>Andy Weir;</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:73abe63b-b30f-44ef-ad51-26324c7e812d</dc:identifier>
+        <dc:date>2022-02-01T02:09:33Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Weir_9780593135211_epub3_c001_r1.xhtml#point(/1/4/4/362/1:216)" end="OEBPS/xhtml/Weir_9780593135211_epub3_c001_r1.xhtml#point(/1/4/4/362/1:286)" progress="0.0394089">
+                <text> It’s the least-intrusive way to feed a patient who can’t eat but </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:51396064-f469-446d-9088-eef0498a047e</dc:identifier>
+        <dc:date>2022-02-02T13:20:54Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Weir_9780593135211_epub3_c005_r1.xhtml#point(/1/4/4/218/1:167)" end="OEBPS/xhtml/Weir_9780593135211_epub3_c005_r1.xhtml#point(/1/4/4/218/1:363)" progress="0.182266">
+                <text>That’s why there’s a mesh over the window of a microwave. The holes in the mesh are too small for microwaves to pass through. But visible light, with a much shorter wavelength, can go through </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:71300e08-4e59-422f-979c-cc7c7705b06c</dc:identifier>
+        <dc:date>2022-02-02T17:14:09Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Weir_9780593135211_epub3_c008_r1.xhtml#point(/1/4/4/242/1:0)" end="OEBPS/xhtml/Weir_9780593135211_epub3_c008_r1.xhtml#point(/1/4/4/242/1:0)" progress="0.302956"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f60d13e6-3cfc-4146-8eab-4c1fb8362341</dc:identifier>
+        <dc:date>2022-02-05T08:16:45Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Weir_9780593135211_epub3_c015_r1.xhtml#point(/1/4/4/204/1:0)" end="OEBPS/xhtml/Weir_9780593135211_epub3_c015_r1.xhtml#point(/1/4/4/204/1:0)" progress="0.527094"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6fd81b96-b4b7-46f9-b149-3343b132e0fd</dc:identifier>
+        <dc:date>2022-02-07T15:13:47Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Weir_9780593135211_epub3_c019_r1.xhtml#point(/1/4/4/338/1:81)" end="OEBPS/xhtml/Weir_9780593135211_epub3_c019_r1.xhtml#point(/1/4/4/338/1:97)" progress="0.660099">
+                <text>Oberth effect. I</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1843c2b2-4811-4c5c-8ef3-4ce263cdf561</dc:identifier>
+        <dc:date>2022-02-07T18:00:14Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Weir_9780593135211_epub3_c022_r1.xhtml#point(/1/4/4/162/1:0)" end="OEBPS/xhtml/Weir_9780593135211_epub3_c022_r1.xhtml#point(/1/4/4/162/1:0)" progress="0.758621"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:76234738-1550-4df0-9e7b-d20cdf4b7cec</dc:identifier>
+        <dc:date>2022-02-07T19:36:29Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Weir_9780593135211_epub3_c024_r1.xhtml#point(/1/4/4/74/1/1:0)" end="OEBPS/xhtml/Weir_9780593135211_epub3_c024_r1.xhtml#point(/1/4/4/74/1/1:0)" progress="0.820197"/>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:95d26633-d323-49e1-b428-a717aa08be40</dc:identifier>
+        <dc:date>2022-02-08T15:38:55Z</dc:date>
+        <dc:creator>urn:uuid:21efe10b-8d53-4fd1-8d2e-8909a23bfee6</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Weir_9780593135211_epub3_ack_r1.xhtml#point(/1/4/4/6/1:6)" end="OEBPS/xhtml/Weir_9780593135211_epub3_ack_r1.xhtml#point(/1/4/4/8/1:48)" progress="0.990148">
+                <text>like to thank the following people who helped me get the science as accurate as possible: Andrew Howell, for helping me with astronomy and stellar sciences. Jim Green, for explaining the basics of planetary science and how atmospheres work. Shawn Goldman, for telling me all about exoplanet detection. Charles Duba (who I actually went to high school with!), for explaining complex details about neutrinos. And finally, Cody Don Reeder, for giving me vital chemistry information and also being an all-around cool guy to exchange emails with.
+			 On the book front, I’d like to thank my agent,</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>
