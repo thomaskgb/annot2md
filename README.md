@@ -13,14 +13,15 @@ Outputs:
 converted file in .md format
 
 ---
+
 # **FORMAT**
----
+\---
 tags: [auto]
 type: book_annotation
 title: 'How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers'
 author: Sönke Ahrens
 ISBN: B06WVYW33Y
----
+\---
 # {Title}
 
 ## Annotations
